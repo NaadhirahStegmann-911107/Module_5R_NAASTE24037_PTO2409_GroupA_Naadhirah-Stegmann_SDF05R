@@ -59,7 +59,7 @@ p {
     height:40px;
     background: cyan; 
     color: black;
-    animation: fade-in-grow 2s ease-in-out 2;
+    animation: fade-in-grow 2s ease-in 1;
     animation-fill-mode: backwards;   
 }
 
